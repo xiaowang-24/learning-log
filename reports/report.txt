@@ -1,0 +1,17 @@
+=== 练习数据报告 ===
+时间：Thu Oct 15 02:55:13 PM CST 2026
+
+-- 文件清单 --
+total 20K
+-rw-r--r-- 1 administrator administrator   22 Oct 15 14:54 a.txt
+-rw-r--r-- 1 administrator administrator   45 Oct 15 10:15 data.tar.gz
+-rw-r--r-- 1 administrator administrator  292 Oct 15 09:27 num_copy.txt
+-rw-r--r-- 1 administrator administrator  292 Oct 15 09:12 nums.txt
+-rw-r--r-- 1 administrator administrator 1.6K Oct 15 09:12 nums,txt.lnk
+
+-- 数据统计 --
+nums.txt 总行数: 100
+含数字 4 的行数: 19
+a.txt 里 ok 的行数(不分大小写): 2
+
+报告完毕
